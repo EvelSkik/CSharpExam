@@ -1,0 +1,9 @@
+/Users/bd7602/RiderProjects/CSharpLesson/FourthTask/bin/Debug/net48/FourthTask.exe.config
+/Users/bd7602/RiderProjects/CSharpLesson/FourthTask/bin/Debug/net48/FourthTask.exe
+/Users/bd7602/RiderProjects/CSharpLesson/FourthTask/bin/Debug/net48/FourthTask.pdb
+/Users/bd7602/RiderProjects/CSharpLesson/FourthTask/obj/Debug/net48/FourthTask.csprojAssemblyReference.cache
+/Users/bd7602/RiderProjects/CSharpLesson/FourthTask/obj/Debug/net48/FourthTask.AssemblyInfoInputs.cache
+/Users/bd7602/RiderProjects/CSharpLesson/FourthTask/obj/Debug/net48/FourthTask.AssemblyInfo.cs
+/Users/bd7602/RiderProjects/CSharpLesson/FourthTask/obj/Debug/net48/FourthTask.csproj.CoreCompileInputs.cache
+/Users/bd7602/RiderProjects/CSharpLesson/FourthTask/obj/Debug/net48/FourthTask.exe
+/Users/bd7602/RiderProjects/CSharpLesson/FourthTask/obj/Debug/net48/FourthTask.pdb

@@ -1,0 +1,9 @@
+/Users/bd7602/RiderProjects/CSharpLesson/SecondTask/bin/Debug/net48/SecondTask.exe.config
+/Users/bd7602/RiderProjects/CSharpLesson/SecondTask/bin/Debug/net48/SecondTask.exe
+/Users/bd7602/RiderProjects/CSharpLesson/SecondTask/bin/Debug/net48/SecondTask.pdb
+/Users/bd7602/RiderProjects/CSharpLesson/SecondTask/obj/Debug/net48/SecondTask.csprojAssemblyReference.cache
+/Users/bd7602/RiderProjects/CSharpLesson/SecondTask/obj/Debug/net48/SecondTask.AssemblyInfoInputs.cache
+/Users/bd7602/RiderProjects/CSharpLesson/SecondTask/obj/Debug/net48/SecondTask.AssemblyInfo.cs
+/Users/bd7602/RiderProjects/CSharpLesson/SecondTask/obj/Debug/net48/SecondTask.csproj.CoreCompileInputs.cache
+/Users/bd7602/RiderProjects/CSharpLesson/SecondTask/obj/Debug/net48/SecondTask.exe
+/Users/bd7602/RiderProjects/CSharpLesson/SecondTask/obj/Debug/net48/SecondTask.pdb

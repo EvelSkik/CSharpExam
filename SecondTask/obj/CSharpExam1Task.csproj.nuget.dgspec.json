@@ -1,0 +1,43 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/bd7602/RiderProjects/CSharpLesson/CSharpExam1Task/CSharpExam1Task.csproj": {}
+  },
+  "projects": {
+    "/Users/bd7602/RiderProjects/CSharpLesson/CSharpExam1Task/CSharpExam1Task.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/bd7602/RiderProjects/CSharpLesson/CSharpExam1Task/CSharpExam1Task.csproj",
+        "projectName": "CSharpExam1Task",
+        "projectPath": "/Users/bd7602/RiderProjects/CSharpLesson/CSharpExam1Task/CSharpExam1Task.csproj",
+        "packagesPath": "/Users/bd7602/.nuget/packages/",
+        "outputPath": "/Users/bd7602/RiderProjects/CSharpLesson/CSharpExam1Task/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/bd7602/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "runtimeIdentifierGraphPath": "/Library/Frameworks/Mono.framework/Versions/6.10.0/lib/mono/msbuild/Current/bin/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

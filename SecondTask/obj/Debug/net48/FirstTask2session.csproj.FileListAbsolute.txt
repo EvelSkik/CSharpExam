@@ -1,0 +1,9 @@
+/Users/bd7602/RiderProjects/CSharpLesson/FirstTask2session/bin/Debug/net48/FirstTask2session.exe.config
+/Users/bd7602/RiderProjects/CSharpLesson/FirstTask2session/bin/Debug/net48/FirstTask2session.exe
+/Users/bd7602/RiderProjects/CSharpLesson/FirstTask2session/bin/Debug/net48/FirstTask2session.pdb
+/Users/bd7602/RiderProjects/CSharpLesson/FirstTask2session/obj/Debug/net48/FirstTask2session.csprojAssemblyReference.cache
+/Users/bd7602/RiderProjects/CSharpLesson/FirstTask2session/obj/Debug/net48/FirstTask2session.AssemblyInfoInputs.cache
+/Users/bd7602/RiderProjects/CSharpLesson/FirstTask2session/obj/Debug/net48/FirstTask2session.AssemblyInfo.cs
+/Users/bd7602/RiderProjects/CSharpLesson/FirstTask2session/obj/Debug/net48/FirstTask2session.csproj.CoreCompileInputs.cache
+/Users/bd7602/RiderProjects/CSharpLesson/FirstTask2session/obj/Debug/net48/FirstTask2session.exe
+/Users/bd7602/RiderProjects/CSharpLesson/FirstTask2session/obj/Debug/net48/FirstTask2session.pdb

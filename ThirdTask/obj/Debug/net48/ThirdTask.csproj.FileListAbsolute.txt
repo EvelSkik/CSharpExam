@@ -1,0 +1,9 @@
+/Users/bd7602/RiderProjects/CSharpLesson/ThirdTask/obj/Debug/net48/ThirdTask.csprojAssemblyReference.cache
+/Users/bd7602/RiderProjects/CSharpLesson/ThirdTask/obj/Debug/net48/ThirdTask.AssemblyInfoInputs.cache
+/Users/bd7602/RiderProjects/CSharpLesson/ThirdTask/obj/Debug/net48/ThirdTask.AssemblyInfo.cs
+/Users/bd7602/RiderProjects/CSharpLesson/ThirdTask/obj/Debug/net48/ThirdTask.csproj.CoreCompileInputs.cache
+/Users/bd7602/RiderProjects/CSharpLesson/ThirdTask/bin/Debug/net48/ThirdTask.exe.config
+/Users/bd7602/RiderProjects/CSharpLesson/ThirdTask/bin/Debug/net48/ThirdTask.exe
+/Users/bd7602/RiderProjects/CSharpLesson/ThirdTask/bin/Debug/net48/ThirdTask.pdb
+/Users/bd7602/RiderProjects/CSharpLesson/ThirdTask/obj/Debug/net48/ThirdTask.exe
+/Users/bd7602/RiderProjects/CSharpLesson/ThirdTask/obj/Debug/net48/ThirdTask.pdb

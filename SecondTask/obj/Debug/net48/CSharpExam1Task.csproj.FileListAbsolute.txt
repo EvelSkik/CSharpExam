@@ -1,0 +1,9 @@
+/Users/bd7602/RiderProjects/CSharpLesson/CSharpExam1Task/bin/Debug/net48/CSharpExam1Task.exe.config
+/Users/bd7602/RiderProjects/CSharpLesson/CSharpExam1Task/bin/Debug/net48/CSharpExam1Task.exe
+/Users/bd7602/RiderProjects/CSharpLesson/CSharpExam1Task/bin/Debug/net48/CSharpExam1Task.pdb
+/Users/bd7602/RiderProjects/CSharpLesson/CSharpExam1Task/obj/Debug/net48/CSharpExam1Task.csprojAssemblyReference.cache
+/Users/bd7602/RiderProjects/CSharpLesson/CSharpExam1Task/obj/Debug/net48/CSharpExam1Task.AssemblyInfoInputs.cache
+/Users/bd7602/RiderProjects/CSharpLesson/CSharpExam1Task/obj/Debug/net48/CSharpExam1Task.AssemblyInfo.cs
+/Users/bd7602/RiderProjects/CSharpLesson/CSharpExam1Task/obj/Debug/net48/CSharpExam1Task.csproj.CoreCompileInputs.cache
+/Users/bd7602/RiderProjects/CSharpLesson/CSharpExam1Task/obj/Debug/net48/CSharpExam1Task.exe
+/Users/bd7602/RiderProjects/CSharpLesson/CSharpExam1Task/obj/Debug/net48/CSharpExam1Task.pdb
